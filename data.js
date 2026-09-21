@@ -23,7 +23,7 @@ const PDFs = [
     category: "Class 12",
     subject: "Physics",
     chapter: "Notes",
-    url: "https://example.com/your-pdf-link",
+    url: "https://ia601602.us.archive.org/14/items/active-passive/active%20passive.pdf",
     downloadUrl: ""
   }
 ];
