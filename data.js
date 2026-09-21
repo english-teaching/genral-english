@@ -15,7 +15,7 @@ const PDFs = [
     category: "Class 10",
     subject: "Maths",
     chapter: "Chapter 1",
-    url: "https://example.com/your-pdf-link",
+    url: "https://archive.org/download/active-passive/active_passive.pdf",
     downloadUrl: ""
   },
   {
