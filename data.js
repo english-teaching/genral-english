@@ -24,6 +24,6 @@ const PDFs = [
     subject: "Physics",
     chapter: "Notes",
     url: "https://ia601602.us.archive.org/14/items/active-passive/active%20passive.pdf",
-    downloadUrl: ""
+    downloadUrl: "https://ia601602.us.archive.org/14/items/active-passive/active%20passive.pdf"
   }
 ];
