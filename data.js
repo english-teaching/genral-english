@@ -7,7 +7,7 @@ const PDFs = [
     category: "Class 10",
     subject: "Hindi",
     chapter: "Chapter 1",
-    url: "https://example.com/your-pdf-link",
+    url: "https://drive.google.com/file/d/1lMn4V0QxjDUdaESacaHCHh9bu_8rwqV5/view?usp=drivesdk",
     downloadUrl: ""
   },
   {
