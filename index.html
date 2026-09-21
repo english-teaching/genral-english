@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>मेरी PDF Library</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div>
+    <p class="eyebrow">PUBLIC PDF LIBRARY</p>
+    <h1>📚 मेरी PDF Library</h1>
+    <p class="subtitle">कक्षा, विषय और श्रेणी के अनुसार PDF खोजें और डाउनलोड करें।</p>
+  </div>
+</header>
+
+<main class="container">
+  <div class="toolbar">
+    <input id="search" type="search" placeholder="🔍 PDF, विषय या chapter खोजें...">
+    <select id="category"><option value="">सभी Categories</option></select>
+  </div>
+
+  <div id="stats" class="stats"></div>
+  <section id="library" class="grid"></section>
+  <p id="empty" class="empty" hidden>कोई PDF नहीं मिली।</p>
+</main>
+
+<footer>© 2026 मेरी PDF Library</footer>
+<script src="data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
